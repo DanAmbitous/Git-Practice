@@ -1,12 +1,12 @@
-Version control
-Repository 
-Commit
-Branch
-Merge
-Fork
-Pull request
-Push request
-Issue
-`#number` use this to refer to issues in the commit name
-`fixes #number` use this to close an issue in the commit name
-A hash number is the unique number of the issue. 
+Version control - This is used to have different versions of a file
+Repository - A place for files such as codes
+Commit - A save to a file
+Branch - A unique set of changes made to the files
+Merge - Combining two different branches together
+Fork - The copy of a repositry which is saved to another user's account
+Pull request - The request to get something
+Push request - The request to send something
+Issue - A feature in the website that is used to communicate bugs, new features, requests, etc.  
+`#number` use this to refer to issues in the commit name - This is the number of the issue which can be used to connect it to issue and to use other functionalities in the code 
+`fixes #number` use this to close an issue in the commit name - This particular feature automatically closes the issue
+Hash number - A hash number is the unique number of the issue. 
