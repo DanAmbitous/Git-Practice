@@ -7,5 +7,6 @@ Fork
 Pull request
 Push request
 Issue
-#number use this to refer to issues in the commit name
-fixes #number use this to close an issue in the commit name
+`#number` use this to refer to issues in the commit name
+`fixes #number` use this to close an issue in the commit name
+A hash number is the unique number of the issue. 
