@@ -1,3 +1,3 @@
 Git is an application that is used for version control and collaboration. 
 GitHub is the website that works with git, by having some of the functionalities of git, and helping out such as by managing the git repositories which are files. 
-Repositories are files in general.
+Repositories are files in general which are used in git.
