@@ -7,3 +7,5 @@ Fork
 Pull request
 Push request
 Issue
+#number use this to refer to issues in the commit name
+fixes #number use this to close an issue in the commit name
