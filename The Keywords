@@ -1,3 +1,5 @@
+GitHub
+
 Version control - This is used to have different versions of a file
 Repository - A place for files such as codes
 Commit - A save to a file
@@ -10,3 +12,11 @@ Issue - A feature in the website that is used to communicate bugs, new features,
 `#number` use this to refer to issues in the commit name - This is the number of the issue which can be used to connect it to issue and to use other functionalities in the code 
 `fixes #number` use this to close an issue in the commit name - This particular feature automatically closes the issue
 Hash number - A hash number is the unique number of the issue. 
+
+Git 
+
+cd - This stands for current directory
+pwd - This stands for print working directory which shows in what directory the user is currently in
+ls - This means list and is used to print out a list of the current working directory
+clear - This clears the commands in the terminal
+cd .. - This goes back a few directories
