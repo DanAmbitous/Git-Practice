@@ -20,3 +20,5 @@ pwd - This stands for print working directory which shows in what directory the 
 ls - This means list and is used to print out a list of the current working directory
 clear - This clears the commands in the terminal
 cd .. - This goes back a few directories
+Tap can be used to autocomplete the command
+The arrow keys on the arrows or in the number pad
