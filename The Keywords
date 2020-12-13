@@ -22,3 +22,4 @@ clear - This clears the commands in the terminal
 cd .. - This goes back a few directories
 Tap can be used to autocomplete the command
 The arrow keys on the arrows or in the number pad
+Cloning - This is the action of taking a repositry and copying it and saving it inside a differnet platform
