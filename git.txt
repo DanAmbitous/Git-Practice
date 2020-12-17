@@ -1,5 +1,0 @@
-Git is an application that is used for version control and collaboration. 
-GitHub is the website that works with git, by having some of the functionalities of git, and helping out such as by managing the git repositories which are files. 
-Repositories are files in general which are used in git.
-Branches are different sets of code that can be merged together they are useful for experimental things so to not effect the main code which is in the main branch
-Merges are a way to add one branch to another forming one unifed branch
